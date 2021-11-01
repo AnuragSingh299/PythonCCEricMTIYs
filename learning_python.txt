@@ -1,0 +1,9 @@
+In Python you can work with variables easily.
+In Python you can work with lists.
+In Python you can use looping techniques.
+In Python you can if statments.
+In Python you can work with dictionaries.
+In Python you can take user inputs.
+In Python you can work with functions which will perform some specific task.
+In Python you can work with classes which represent real world entities.
+In Python you can work with files and exceptions.
